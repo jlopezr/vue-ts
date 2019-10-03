@@ -6,8 +6,8 @@ import Task from '@/types/Task';
 @WithRender
 @Component({
   components: {
-    'to-do-form': ToDoForm
-  }
+    'to-do-form': ToDoForm,
+  },
 })
 export default class ToDo extends Vue {
   public tasks: Task[] = [
