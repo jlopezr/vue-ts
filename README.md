@@ -1,5 +1,11 @@
 # vue-ts
 
+Based on:
+
+[https://dev.to/georgehanson/building-vuejs-applications-with-typescript-1j2n](https://dev.to/georgehanson/building-vuejs-applications-with-typescript-1j2n)
+
+[https://dev.to/georgehanson/building-vue-js-applications-with-typescript-part-two-2808](https://dev.to/georgehanson/building-vue-js-applications-with-typescript-part-two-2808).
+
 ## Project setup
 ```
 npm install
@@ -27,3 +33,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
